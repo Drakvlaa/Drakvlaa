@@ -4,7 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Im a Backend Developer💻
 -----------------
 * I live in Poland
-* I'm currently learning C++🖥️ and Java☕
+* Learning C++🖥️ and Java☕
+* Currently working on minecraft plugins
 
 
 My skills
