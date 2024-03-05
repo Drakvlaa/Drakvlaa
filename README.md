@@ -17,6 +17,8 @@ Contacts
 -----------------
 * Mail 📨 - Filip.sobczuk@o2.pl
 * Discord 🤖 - drakvla
+-----------------
+
 
 
 
