@@ -10,7 +10,7 @@ Im a Backend Developer💻
 
 My skills
 -----------------
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,git,python)](https://skillicons.dev)
 
 
 Contacts
