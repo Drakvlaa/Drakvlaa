@@ -1,6 +1,6 @@
 # 💫 About Me:
 ### Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) my name is Filip Sobczuk, i'm a software developer.
-I'm still in high school trying to make my own projects to extend my knowledge about all kinds of stuff. I'm currently working on discord applications and minecraft plugins.
+I'm still in high school trying to make my own projects to extend my knowledge about all kinds of stuff. I'm currently working on web applications
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/drakvlaa)
