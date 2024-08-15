@@ -4,7 +4,7 @@ Hi 👋 My name is Filip Sobczuk
 Fullstack developer
 -------------------
 
-I've been learning to code for over 2 years now, I create various projects with my Friend under [Hegemon Studio](github.com/HegemonStudio)
+I've been learning to code for over 2 years now, I create various projects with my Friend under [Hegemon Studio](/HegemonStudio)
 
 * 🌍  I'm based in Poland
 * ✉️  You can contact me at [Filip.sobczuk@o2.pl](mailto:Filip.sobczuk@o2.pl)
