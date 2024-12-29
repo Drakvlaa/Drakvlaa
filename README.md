@@ -8,7 +8,7 @@ I've been learning to code for over 2 years now, I create various projects with 
 * 🌍  I'm based in Poland
 * ✉️  You can contact me at [Filip.sobczuk@o2.pl](mailto:Filip.sobczuk@o2.pl)
 * 🧠  I'm learning React and C
-* ⚡  Stay tuned for upcoming project!
+* ⚡  Stay tuned for upcoming projects!
 
 ### Skills
 
